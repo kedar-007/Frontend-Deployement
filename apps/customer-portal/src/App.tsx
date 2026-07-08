@@ -13,6 +13,7 @@ function App() {
         }} />
         <p>Added the new feature</p>
         <p>Branch Rules added</p></div>
+        <p>Branch Rules added</p>
 
 
     </>
