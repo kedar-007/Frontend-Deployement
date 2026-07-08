@@ -11,7 +11,10 @@ function App() {
         <Button onClick={() => {
           alert(formatCurrency(1234))
         }} />
-        <p>Added the new feature</p></div>
+        <p>Added the new feature</p>
+        <p>Branch Rules added</p></div>
+
+
     </>
   )
 }
