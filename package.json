@@ -1,0 +1,26 @@
+{
+  "name": "frontend-lifecycle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "packageManager": "pnpm@10.15.0",
+  "scripts": {
+    "test": "lerna run test",
+    "build": "lerna run build",
+    "lint": "lerna run lint",
+    "dev": "lerna run dev --parallel"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.9.1",
+    "@testing-library/react": "^16.3.2",
+    "@testing-library/user-event": "^14.6.1",
+    "@types/jest": "^30.0.0",
+    "event": "link:@testing-library/user/event",
+    "jest": "^30.4.2",
+    "jest-environment-jsdom": "^30.4.1",
+    "lerna": "^9.0.7",
+    "ts-jest": "^29.4.11"
+  }
+}
