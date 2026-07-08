@@ -12,8 +12,8 @@ function App() {
           alert(formatCurrency(1234))
         }} />
         <p>Added the new feature</p>
-        <p>Branch Rules added</p></div>
-        <p>Branch Rules added</p>
+      </div>
+      <p>Branch Rules added - fixed</p>
 
 
     </>
