@@ -10,7 +10,8 @@ function App() {
       <div> <h1> Complete Frontend Dev and Deployement Lifecycle</h1>
         <Button onClick={() => {
           alert(formatCurrency(1234))
-        }} /></div>
+        }} />
+        <p>Added the new feature</p></div>
     </>
   )
 }
